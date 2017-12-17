@@ -13,7 +13,6 @@ Information about the data can be found here: https://github.com/taivop/joke-dat
 
 ## Meeting Schedule 
 All meeting topics are tenative based on progress.
-
 Oct. 29th - EDA discussion. 
 
 Nov. 5th - Begin dividing into groups to build predictor and topicRNN
@@ -22,6 +21,19 @@ Nov. 12th - Discuss results. Continue tuning.
 
 Nov. 19th - Continue tuning. 
 
-Dec. 3 - Discuss results. Start building dataset for AI.
+Dec. 3 - Discuss results. 
 
-Future meetings and topics TBD.
+Dec. 10th - Discuss results, update new teammates.
+
+Dec. 17th - Lock down preprocessing and other items for NN
+
+(No meeting Dec 24th)
+
+Dec. 31st - Decide deduping process
+
+Jan. 7th - Finalize preprocessing and save off clean dataset
+
+Jan. 14th - Prep master branch for NN and experimentations
+
+Jan. 21st - Begin NN
+
